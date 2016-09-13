@@ -5,6 +5,11 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.soubw.jhttps.JOkHttp;
 
+/**
+ * @author WX_JIN
+ * wangxiaojin@soubw.com
+ * http://soubw.com
+ */
 public class MainActivity extends AppCompatActivity {
 
     private static String CER_12306 = "-----BEGIN CERTIFICATE-----\n" +

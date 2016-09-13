@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JHttps.iml" filepath="$PROJECT_DIR$/JHttps.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jhttps/JHttps-JHttps.iml" filepath="$PROJECT_DIR$/jhttps/JHttps-JHttps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jhttps/jhttps.iml" filepath="$PROJECT_DIR$/jhttps/jhttps.iml" />
     </modules>
   </component>
 </project>

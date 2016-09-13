@@ -13,8 +13,8 @@ import javax.net.ssl.X509TrustManager;
 
 /**
  * @author WX_JIN
- * @email wangxiaojin@soubw.com
- * @link http://soubw.com
+ * wangxiaojin@soubw.com
+ * http://soubw.com
  */
 public class JCommonSSL {
 

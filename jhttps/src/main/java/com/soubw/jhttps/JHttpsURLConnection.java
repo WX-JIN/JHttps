@@ -12,8 +12,8 @@ import javax.net.ssl.HttpsURLConnection;
 
 /**
  * @author WX_JIN
- * @email wangxiaojin@soubw.com
- * @link http://soubw.com
+ * wangxiaojin@soubw.com
+ * http://soubw.com
  */
 public class JHttpsURLConnection {
     private static final String TAG = "JHttps";
@@ -21,7 +21,6 @@ public class JHttpsURLConnection {
     /**
      * @param httpUrl
      * @param isCommon 是否采用全部运行的方式进行请求
-     * @return
      */
     public static void doHttpsURLConnection(String httpUrl, boolean isCommon) {
         BufferedReader input = null;

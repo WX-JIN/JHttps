@@ -16,8 +16,8 @@ import javax.net.ssl.TrustManagerFactory;
 
 /**
  * @author WX_JIN
- * @email wangxiaojin@soubw.com
- * @link http://soubw.com
+ * wangxiaojin@soubw.com
+ * http://soubw.com
  */
 public class JSSLSocketFactory {
 

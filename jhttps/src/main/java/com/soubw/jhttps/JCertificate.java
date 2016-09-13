@@ -10,8 +10,8 @@ import java.util.List;
 
 /**
  * @author WX_JIN
- * @email wangxiaojin@soubw.com
- * @link http://soubw.com
+ * wangxiaojin@soubw.com
+ * http://soubw.com
  */
 public class JCertificate {
 
@@ -108,7 +108,7 @@ public class JCertificate {
     }
 
     public synchronized static void addCertificatesInputStreamData(InputStream certificatesInputStreamData) {
-        if (certificatesInputStreamData == null || certificatesInputStreamData.equals("") )
+        if (certificatesInputStreamData == null || certificatesInputStreamData.equals(""))
             return;
         CERTIFICATES_INPUT_STREAM_DATA.add(certificatesInputStreamData);
     }

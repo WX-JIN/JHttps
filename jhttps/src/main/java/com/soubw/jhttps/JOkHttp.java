@@ -14,8 +14,8 @@ import okhttp3.Response;
 
 /**
  * @author WX_JIN
- * @email wangxiaojin@soubw.com
- * @link http://soubw.com
+ * wangxiaojin@soubw.com
+ * http://soubw.com
  */
 public class JOkHttp {
 
